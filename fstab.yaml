@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: https://author-p153710-e1614654.adobeaemcloud.com/bin/franklin.delivery/Luffyt01/test-form/main
+    type: "markup"
+    suffix: ".html"
